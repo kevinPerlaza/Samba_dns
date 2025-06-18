@@ -40,7 +40,7 @@
                 font-weight: bold;
             }
             .path-placeholder {
-                color: #FBBF24;
+                color: #34D399;
             }
             .explanation {
                 background-color: #1F2937;
