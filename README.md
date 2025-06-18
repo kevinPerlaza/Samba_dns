@@ -12,7 +12,7 @@
             }
             .code-block {
                 background-color: #1E293B;
-                color: #E2E8F0;
+                color: black;
                 padding: 1rem;
                 border-radius: 0.5rem;
                 font-family: 'monospace';
